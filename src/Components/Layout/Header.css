@@ -1,0 +1,21 @@
+.header {
+    text-align: center;
+    color: white;
+}
+
+.navigation li{
+    list-style-type: none;
+}
+
+#header__comment {
+    color: #00b8fc;
+    font-size: 25px;
+}
+
+.cursor {
+    color: white;
+}
+
+.ityped-cursor {
+    font-size: 25px;
+}
